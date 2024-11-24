@@ -1,4 +1,4 @@
-export const filters = ["All", "About", "Projects", "Media"];
+export const filters = ["所有", "关于", "项目", "媒体"];
 
 export const layouts = {
   all: {
