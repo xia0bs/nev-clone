@@ -8,7 +8,6 @@ import { useEffect, useState } from "react"
 import styles from "./styles.module.scss"
 
 import { BlogExcerpt } from "_components/BlogExcerpt"
-import { Newsletter } from "_components/Newsletter"
 import { Spotify } from "_components/Spotify"
 import { Toggler } from "_components/Toggler"
 import { Twitter } from "_components/Twitter"
@@ -164,15 +163,7 @@ export const Grid = ({
 					}}>
 					<Toggler themeToggler={themeToggler} />
 				</div>
-				<div
-					key="newsletter"
-					className={cn(styles.itemGrab, styles.item)}
-					style={{
-						transitionDuration: isMounted ? "500ms" : "0ms",
-						opacity: opacityValue("media"),
-					}}>
-					<Newsletter />
-				</div>
+
 			</ResponsiveGridLayout>
 		</div>
 	)
