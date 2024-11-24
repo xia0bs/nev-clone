@@ -7,7 +7,6 @@ import cn from "classnames"
 import { useEffect, useState } from "react"
 import styles from "./styles.module.scss"
 
-import { BlogExcerpt } from "_components/BlogExcerpt"
 import { Spotify } from "_components/Spotify"
 import { Toggler } from "_components/Toggler"
 import { Twitter } from "_components/Twitter"
@@ -131,15 +130,7 @@ export const Grid = ({
 						href="/projects/vouch-for"
 					/>
 				</div>
-				<div
-					key="blog-excerpt"
-					className={cn(styles.itemGrab, styles.item)}
-					style={{
-						transitionDuration: isMounted ? "500ms" : "0ms",
-						opacity: opacityValue("media"),
-					}}>
-					<BlogExcerpt />
-				</div>
+				
 				<div
 					key="wrap"
 					className={cn(styles.itemGrab, styles.item)}
