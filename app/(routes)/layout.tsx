@@ -7,16 +7,16 @@ import cn from "classnames";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Nev Flynn Clone 😁",
-  description: "this is just a clone go check the real website",
+  title: "Yanng 的数字生活",
+  description: "",
   authors: [
-    { name: "Høussaine Amzil", url: "https://houssaineamzil.vercel.app" },
+    { name: "Yanng", url: "https://yanng.cn" },
   ],
   openGraph: {
-    title: "Nev Flynn Clone 😁",
-    description: "this is just a clone go check the real website",
-    url: "https://navflynn-houssaineamzil.vercel.app",
-    siteName: "Høussaine Amzil — Creative Developer",
+    title: "Yanng 的数字生活",
+    description: "",
+    url: "https://yanng.cn",
+    siteName: "Yanng 的数字生活",
     images: [
       {
         url: "https://navflynn-houssaineamzil.vercel.app/og.png",
