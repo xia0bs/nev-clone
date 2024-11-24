@@ -66,18 +66,16 @@ export const Bio = () => {
       </div>
       <p className={cn(styles.about)}>
         <span className={cn(styles.indentation)}>
-          I&apos;m{" "}
+          我是{" "}
           <span
             style={{
               fontFamily: "var(--moranga)",
               fontSize: 40,
             }}
           >
-            Houssine
+            Yanng
           </span>
-          , a creative developer and graphic designer from X911, Andromeda.
-          I&apos;m interested in Next.js, Node, Product Design, Startups,
-          Basketball and Music.
+          , 这里记录了观影、追剧、听歌、读书、游戏以及社交平台等互联网足迹。
         </span>
       </p>
       <button
