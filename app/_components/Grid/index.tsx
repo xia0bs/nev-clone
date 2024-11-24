@@ -126,8 +126,8 @@ export const Grid = ({
 					<CaseStudy
 						bg="images/vouch-for-bg.svg"
 						image="images/vouch-for.png"
-						title="Vouch For"
-						href="/projects/vouch-for"
+						title="feed"
+						href="https://feed.yanng.cn"
 					/>
 				</div>
 				
