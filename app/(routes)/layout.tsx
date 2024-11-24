@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     siteName: "Yanng 的数字生活",
     images: [
       {
-        url: "https://navflynn-houssaineamzil.vercel.app/og.png",
+        url: "",
         width: 1920,
         height: 1080,
       },
