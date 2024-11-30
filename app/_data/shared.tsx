@@ -1,4 +1,4 @@
-export const filters = ["所有", "关于", "项目", "媒体"];
+export const filters = ["All", "About", "Projects", "Media"];
 
 export const layouts = {
   all: {
@@ -52,6 +52,14 @@ export const layouts = {
         isResizable: false,
       },
       {
+        i: "blog-excerpt",
+        x: 0,
+        y: 2,
+        w: 2,
+        h: 1,
+        isResizable: false,
+      },
+      {
         i: "wrap",
         x: 0,
         y: 3,
@@ -64,6 +72,14 @@ export const layouts = {
         x: 3,
         y: 2,
         w: 1,
+        h: 1,
+        isResizable: false,
+      },
+      {
+        i: "newsletter",
+        x: 2,
+        y: 3,
+        w: 2,
         h: 1,
         isResizable: false,
       },
@@ -118,6 +134,14 @@ export const layouts = {
         isResizable: false,
       },
       {
+        i: "blog-excerpt",
+        x: 0,
+        y: 3,
+        w: 2,
+        h: 2,
+        isResizable: false,
+      },
+      {
         i: "wrap",
         x: 2,
         y: 3,
@@ -131,6 +155,14 @@ export const layouts = {
         y: 2,
         w: 1,
         h: 1,
+        isResizable: false,
+      },
+      {
+        i: "newsletter",
+        x: 2,
+        y: 4,
+        w: 2,
+        h: 2,
         isResizable: false,
       },
     ],
@@ -184,6 +216,14 @@ export const layouts = {
         isResizable: false,
       },
       {
+        i: "blog-excerpt",
+        x: 0,
+        y: 8,
+        w: 2,
+        h: 2,
+        isResizable: false,
+      },
+      {
         i: "wrap",
         x: 0,
         y: 10,
@@ -197,6 +237,14 @@ export const layouts = {
         y: 5,
         w: 1,
         h: 1,
+        isResizable: false,
+      },
+      {
+        i: "newsletter",
+        x: 0,
+        y: 11,
+        w: 2,
+        h: 2,
         isResizable: false,
       },
     ],
