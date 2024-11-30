@@ -85,7 +85,7 @@ export const Grid = ({
 					<Map />
 				</div>
 				<div
-					key="recroot"
+					key="blog"
 					className={cn(styles.itemGrab, styles.item)}
 					style={{
 						transitionDuration: isMounted ? "500ms" : "0ms",
@@ -95,7 +95,7 @@ export const Grid = ({
 						bg="images/recroot-bg.svg"
 						image="images/recroot.png"
 						title="Recroot"
-						href="/projects/recroot"
+						href="https://blog.yanng.cn"
 					/>
 				</div>
 				<div
@@ -117,7 +117,7 @@ export const Grid = ({
 					<Twitter />
 				</div>
 				<div
-					key="vouch-for"
+					key="feed"
 					className={cn(styles.itemGrab, styles.item)}
 					style={{
 						transitionDuration: isMounted ? "500ms" : "0ms",
@@ -131,13 +131,6 @@ export const Grid = ({
 					/>
 				</div>
 				
-				<div
-					key="wrap"
-					className={cn(styles.itemGrab, styles.item)}
-					style={{
-						transitionDuration: isMounted ? "500ms" : "0ms",
-						opacity: opacityValue("projects"),
-					}}>
 					<CaseStudy
 						bg="images/wrap-bg.svg"
 						image="images/wrap.png"
