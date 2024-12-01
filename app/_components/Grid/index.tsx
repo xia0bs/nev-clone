@@ -131,13 +131,6 @@ export const Grid = ({
 					/>
 				</div>
 				
-					<CaseStudy
-						bg="images/wrap-bg.svg"
-						image="images/wrap.png"
-						title="Wrap"
-						href="/projects/wrap"
-					/>
-				</div>
 				<div
 					key="mode-toggle"
 					className={cn(styles.itemGrab, styles.item)}
