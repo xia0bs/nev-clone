@@ -59,14 +59,6 @@ export const layouts = {
         h: 1,
         isResizable: false,
       },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 3,
-        w: 2,
-        h: 1,
-        isResizable: false,
-      },
     ],
     md: [
       {
@@ -125,14 +117,6 @@ export const layouts = {
         h: 1,
         isResizable: false,
       },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 4,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
     ],
     sm: [
       {
@@ -189,14 +173,6 @@ export const layouts = {
         y: 5,
         w: 1,
         h: 1,
-        isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 0,
-        y: 11,
-        w: 2,
-        h: 2,
         isResizable: false,
       },
     ],
@@ -258,15 +234,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 3,
-        w: 2,
-        h: 1,
-        isResizable: false,
-      },
+      }
     ],
     md: [
       {
@@ -324,15 +292,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 4,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
+      }
     ],
     sm: [
       {
@@ -390,15 +350,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 0,
-        y: 11,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
+      }
     ],
   },
   projects: {
@@ -458,15 +410,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 3,
-        w: 2,
-        h: 1,
-        isResizable: false,
-      },
+      }
     ],
     md: [
       {
@@ -524,15 +468,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 4,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
+      }
     ],
     sm: [
       {
@@ -590,15 +526,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 0,
-        y: 11,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
+      }
     ],
   },
   media: {
@@ -658,15 +586,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 0,
-        w: 2,
-        h: 1,
-        isResizable: false,
-      },
+      }
     ],
     md: [
       {
@@ -724,15 +644,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 2,
-        y: 0,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
+      }
     ],
     sm: [
       {
@@ -790,15 +702,7 @@ export const layouts = {
         w: 1,
         h: 1,
         isResizable: false,
-      },
-      {
-        i: "newsletter",
-        x: 0,
-        y: 4,
-        w: 2,
-        h: 2,
-        isResizable: false,
-      },
+      }
     ],
   },
 };
