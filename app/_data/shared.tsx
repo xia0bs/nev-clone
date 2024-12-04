@@ -15,7 +15,7 @@ export const layouts = {
         i: "map",
         x: 2,
         y: 0,
-        w: 1,
+        w: 2,
         h: 1,
         isResizable: false,
       },
