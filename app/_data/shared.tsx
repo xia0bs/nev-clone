@@ -21,8 +21,8 @@ export const layouts = {
       },
       {
         i: "blog",
-        x: 3,
-        y: 0,
+        x: 0,
+        y: 1,
         w: 2,
         h: 1,
         isResizable: false,
