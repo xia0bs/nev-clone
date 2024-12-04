@@ -94,7 +94,7 @@ export const Grid = ({
 					<CaseStudy
 						bg="images/recroot-bg.svg"
 						image="images/recroot.png"
-						title="Recroot"
+						title="Blog"
 						href="https://blog.yanng.cn"
 					/>
 				</div>
