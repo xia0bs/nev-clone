@@ -54,7 +54,7 @@ export const layouts = {
       {
         i: "mode-toggle",
         x: 3,
-        y: 2,
+        y: 0,
         w: 1,
         h: 1,
         isResizable: false,
