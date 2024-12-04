@@ -20,7 +20,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 0,
         w: 2,
@@ -78,7 +78,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 0,
         w: 1,
@@ -136,7 +136,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 1,
         y: 3,
         w: 1,
@@ -196,7 +196,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 1,
         w: 1,
@@ -254,7 +254,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 1,
         w: 1,
@@ -312,7 +312,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 1,
         y: 3,
         w: 1,
@@ -372,7 +372,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 0,
         w: 1,
@@ -430,7 +430,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 0,
         w: 1,
@@ -488,7 +488,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 1,
         y: 0,
         w: 1,
@@ -548,7 +548,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 0,
         w: 1,
@@ -606,7 +606,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 3,
         y: 0,
         w: 1,
@@ -664,7 +664,7 @@ export const layouts = {
         isResizable: false,
       },
       {
-        i: "Blog",
+        i: "blog",
         x: 1,
         y: 6,
         w: 1,
