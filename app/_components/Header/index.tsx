@@ -14,7 +14,7 @@ export const Header = ({ setFilter }: { setFilter: any }) => {
       initial={{ opacity: 1 }}
     >
       <div className={styles.logoWrapper}>
-        <Image
+{/*         <Image
           src=""
           alt=""
           width={72}
@@ -35,7 +35,7 @@ export const Header = ({ setFilter }: { setFilter: any }) => {
                 },
               }));
           }}
-        />
+        /> */}
       </div>
       <Filter setFilter={setFilter} />
       <Link
