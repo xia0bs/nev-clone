@@ -15,7 +15,7 @@ export const Header = ({ setFilter }: { setFilter: any }) => {
     >
       <div className={styles.logoWrapper}>
         <Image
-          src="/images/logo.svg"
+          src=""
           alt=""
           width={72}
           height={24}
