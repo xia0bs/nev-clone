@@ -3,17 +3,11 @@ import styles from "./styles.module.scss";
 
 export const Spotify = ({ key }: { key?: any }) => {
   const { name, href, type, artists } = {
-    name: "Tu veux mon zizi",
-    href: "https://open.spotify.com/track/1ImRLQGYsmrn3NaiKvO6pt?autoplay=true",
+    name: "童話鎮",
+    href: "https://open.spotify.com/playlist/1O59BhoZHfzjvp0atoVL0G",
     type: "",
-    artists: ["Francky Vincent"],
+    artists: ["陳一發兒"],
   };
-  // const { name, href, type, artists } = {
-  // 	name: "Kids Of The Night",
-  // 	href: "https://open.spotify.com/track/5u8Zijx6NHUL8MM6dBEbkS?si=c4bb73f887a443de",
-  // 	type: "",
-  // 	artists: ["Elly Duhé"],
-  // }
   const delays = [0.85, 1.26, 0.62];
 
   return (
