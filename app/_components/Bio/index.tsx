@@ -150,7 +150,7 @@ export const Bio = () => {
             marginLeft: "6px",
           }}
         >
-          Toggle Lockdown
+          切换表情
         </p>
       </button>
     </div>
