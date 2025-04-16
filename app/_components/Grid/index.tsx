@@ -93,7 +93,7 @@ export const Grid = ({
 					}}>
 					<CaseStudy
 						bg="images/recroot-bg.svg"
-						image="images/recroot.png"
+						image=""
 						title="博客"
 						href="https://blog.yanng.cn"
 					/>
@@ -125,7 +125,7 @@ export const Grid = ({
 					}}>
 					<CaseStudy
 						bg="images/vouch-for-bg.svg"
-						image="images/vouch-for.png"
+						image=""
 						title="书影音游"
 						href="https://feed.yanng.cn"
 					/>
