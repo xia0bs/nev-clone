@@ -94,7 +94,7 @@ export const Grid = ({
 					<CaseStudy
 						bg="images/recroot-bg.svg"
 						image="images/recroot.png"
-						title="blog"
+						title="博客"
 						href="https://blog.yanng.cn"
 					/>
 				</div>
@@ -126,7 +126,7 @@ export const Grid = ({
 					<CaseStudy
 						bg="images/vouch-for-bg.svg"
 						image="images/vouch-for.png"
-						title="feed"
+						title="书影音游"
 						href="https://feed.yanng.cn"
 					/>
 				</div>
