@@ -1,4 +1,4 @@
-export const filters = ["All", "about", "projects", "media"];
+export const filters = ["all", "about", "projects", "media"];
 
 export const layouts = {
   all: {
