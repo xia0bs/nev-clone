@@ -34,7 +34,7 @@ export const CaseStudy = ({
         className={cn(styles.backgroundSVG)}
         style={{ opacity: "var(--caseStudyBgOpacity)" }}
       />
-      <img src={image} className={cn(styles.image)} />
+{/*       <img src={image} className={cn(styles.image)} /> */}
       <ExpandedCornerLink href={href} active={active} title={title} />
     </div>
   );
