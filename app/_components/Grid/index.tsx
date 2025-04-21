@@ -93,7 +93,7 @@ export const Grid = ({
 					}}>
 					<CaseStudy
 						bg="images/recroot-bg.svg"
-						image=""
+						image="images/blog.png"
 						title="博客"
 						href="https://blog.yanng.cn"
 					/>
