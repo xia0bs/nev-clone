@@ -125,7 +125,7 @@ export const Grid = ({
 					}}>
 					<CaseStudy
 						bg="images/vouch-for-bg.svg"
-						image=""
+						image="images/media.png"
 						title="书影音游"
 						href="https://feed.yanng.cn"
 					/>
